@@ -1,0 +1,14 @@
+#
+# GitPitch Slideshow Custom Settings
+#
+# For details, visit Wiki:
+# https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
+#
+theme : night
+theme-override : assets/css/PITCHME.codemax.css
+highlight : atom-one-light
+logo : assets/image/logo.png
+background : assets/image/chuttersnap.jpg
+transition : none
+published : true
+footnote : "GitPitch [ Rain CodeMax ] Presentation Template"
