@@ -1,0 +1,13 @@
+#
+# GitPitch Slideshow Custom Settings
+#
+# For details, visit Wiki:
+# https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
+#
+theme : night
+theme-override : assets/css/PITCHME.codemax.css
+logo : assets/image/logo.png
+highlight : atom-one-light
+transition : none
+published : true
+footnote : "GitPitch [ Netflix CodeMax ] Presentation Template"
