@@ -22,7 +22,7 @@ responsive, online and offline slideshow presentations.
 ## Presentation Templates Gallery
 
 To open the official GitPitch Presentation Gallery click
-[here](https://gitpitch.com/templates.html).
+[here](https://gitpitch.com/templates).
 
 To view a detailed `README` for an individual template 
 click on any link in the following table:
