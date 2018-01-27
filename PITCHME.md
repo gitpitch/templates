@@ -25,7 +25,7 @@
 - Slide-specific Background Images |
 - Custom Logo, TOC, and Footnotes |
 
----?code=src/go/server.go&lang=golang&title=Golang File
+---?code=sample/go/server.go&lang=golang&title=Golang File
 
 @[1,3-6](Present code found within any Git repo source file.)
 @[8-18](Without ever leaving your slideshow.)
@@ -81,13 +81,25 @@ http.createServer(function (request, response) {
 - [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
 - [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
 
----?image=assets/image/gitpitch-audience.jpg
+---?image=assets/image/lukas_blazek.jpg
 
-### <span class="white">Template Versions</span>
+## Go GitPitch Pro!
 
-- #### [Base Template  @fa[external-link gp-download]](https://gitpitch.com/gitpitch/templates/timber)
-- #### [Code Maximized @fa[external-link gp-download]](https://gitpitch.com/gitpitch/templates/timber?p=codemax)
-- #### [Speaker Notes @fa[external-link gp-download]](https://gitpitch.com/gitpitch/templates/timber?p=speaker)
+<br>
+<div class="left">
+    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
+    <a href="https://gitpitch.com/pro-features" class="pro-link">
+    More details here.</a>
+</div>
+<div class="right">
+    <ul>
+        <li>Private Repos</li>
+        <li>Private URLs</li>
+        <li>Password-Protection</li>
+        <li>Image Opacity</li>
+        <li>SVG Image Support</li>
+    </ul>
+</div>
 
 ---?image=assets/image/lukas_blazek.jpg
 
