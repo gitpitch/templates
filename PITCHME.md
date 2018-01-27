@@ -23,7 +23,7 @@
 - Slide-specific Background Images |
 - Custom Logo, TOC, and Footnotes |
 
----?code=src/go/server.go&lang=golang&title=Golang File
+---?code=sample/go/server.go&lang=golang&title=Golang File
 
 @[1,3-6](Present code found within any repo source file.)
 @[8-18](Without ever leaving your slideshow.)
@@ -81,11 +81,23 @@ http.createServer(function (request, response) {
 
 ---
 
-### Template Versions
+## Go GitPitch Pro!
 
-- #### [Base Template  @fa[external-link gp-download]](https://gitpitch.com/gitpitch/templates/sunkist)
-- #### [Code Maximized @fa[external-link gp-download]](https://gitpitch.com/gitpitch/templates/sunkist?p=codemax)
-- #### [Speaker Notes @fa[external-link gp-download]](https://gitpitch.com/gitpitch/templates/sunkist?p=speaker)
+<br>
+<div class="left">
+    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
+    <a href="https://gitpitch.com/pro-features" class="pro-link">
+    More details here.</a>
+</div>
+<div class="right">
+    <ul>
+        <li>Private Repos</li>
+        <li>Private URLs</li>
+        <li>Password-Protection</li>
+        <li>Image Opacity</li>
+        <li>SVG Image Support</li>
+    </ul>
+</div>
 
 ---
 
