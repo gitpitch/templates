@@ -6,6 +6,7 @@
 #
 theme : simple
 theme-override : assets/css/PITCHME.css
+# theme-override : assets/css/PITCHME.codemax.css
 highlight : atom-one-light
 logo : assets/image/logo.png
 transition : none
