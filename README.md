@@ -11,28 +11,22 @@ gives you:
 
 - A distinctive theme
 - Attractive typeface and imagery
-- Sample [custom CSS](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
-- Sample [custom Settings](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings)
+- Sample [custom CSS](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS) styling
+- Sample [custom Settings](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings) configuration
+- Sample slide background images
 - And sample markdown that demonstrates a wide range of [GitPitch features](https://gitpitch.com/features.html).
 
 While you focus on your content, presentation templates
 ensure your content is delivered as beautifully rendered, fully
-responsive, online and offline slideshow presentations.
+responsive, online and offline slideshow presentations. But whenever you want more control of the visual appearance of your slides, every aspect of the template is customizable by you.
 
 ## Presentation Templates Gallery
 
-To open the official GitPitch Presentation Gallery click
-[here](https://gitpitch.com/templates).
+Start by visiting the official GitPitch Presentation Gallery [here](https://gitpitch.com/templates).
 
-To view a detailed `README` for an individual template 
-click on any link in the following table:
+The Gallery gives you *live-preview* and *one-click* download for every template. Once you download a *template-bundle* just commit and push the files found in the bundle to your own Git repo and you instantly have a fully functioning GitPitch presentation.
 
-| | | |
-| :--: | :--: | :--: |
-| [Aqua](https://github.com/gitpitch/templates/tree/aqua) | [Beige](https://github.com/gitpitch/templates/tree/beige) | [Black](https://github.com/gitpitch/templates/tree/black) |
-| [Blue](https://github.com/gitpitch/templates/tree/blue) | [Brick](https://github.com/gitpitch/templates/tree/brick) | [Netflix](https://github.com/gitpitch/templates/tree/netflix) |
-| [Rain](https://github.com/gitpitch/templates/tree/rain) | [Sky](https://github.com/gitpitch/templates/tree/sky) | [Space](https://github.com/gitpitch/templates/tree/space) |
-| [Sunkist](https://github.com/gitpitch/templates/tree/sunkist) | [Timber](https://github.com/gitpitch/templates/tree/timber) | [White](https://github.com/gitpitch/templates/tree/white) |
+Alternatively, you can *fork* or *clone* this entire repository and then simply checkout the *branch* for the template you want to use in order to quickstart your next presentation. 
 
 
 Remember to *watch* this repo so you are notified
