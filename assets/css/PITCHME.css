@@ -34,6 +34,22 @@
   border-radius: 15px;
 }
 
+.reveal div.left {
+    float: left;
+    z-index: -10;
+    width: 45%;
+}
+
+.reveal div.right {
+    float: right;
+    z-index: -10;
+    width: 55%;
+}
+
+.reveal a.pro-link {
+    font-size: 0.5em;
+}
+
 #gp-logo img {
   max-height: 2em;
   max-width: none;
