@@ -7,8 +7,10 @@
 theme : beige
 theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
+layout : top-left
 highlight : hybrid
 logo : assets/image/logo.png
+logo-position : top-right
 transition : none
 published : true
 footnote : "GitPitch [ Aqua ] Presentation Template"
