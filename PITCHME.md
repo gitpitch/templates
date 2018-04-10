@@ -20,7 +20,7 @@ Note: These are some notes
 
 ---
 
-<iframe class="stretch" data-src="https://tinyurl.com/y92cnd9r"></iframe>
+<iframe class="stretch" data-src="https://query.wikidata.org/"></iframe>
 
 ---
 
