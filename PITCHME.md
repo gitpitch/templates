@@ -16,7 +16,7 @@ Note: These are some notes
 
 ---
 
-<iframe class="stretch" data-src="https://www.eventbrite.com.au"></iframe>
+<iframe class="stretch" data-src="https://eventbrite.com.au"></iframe>
 
 ---
 
