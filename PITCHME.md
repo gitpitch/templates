@@ -8,13 +8,15 @@
 
 <br>
 
+Note: These are some notes
+
 @fa[arrows gp-tip](Press F to go Fullscreen)
 
 @fa[microphone gp-tip](Press S for Speaker Notes)
 
 ---
 
-## Template Features
+## Changed templates
 
 - Code Presenting |
 - Repo Source, Static Blocks, GIST |
@@ -23,9 +25,7 @@
 - Slide-specific Background Images |
 - Custom Logo, TOC, and Footnotes |
 
-Note:
-
-These are some notes
+Note: These are some notes
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 
