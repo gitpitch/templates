@@ -8,13 +8,24 @@
 
 <br>
 
+Note: These are some notes
+
 @fa[arrows gp-tip](Press F to go Fullscreen)
 
 @fa[microphone gp-tip](Press S for Speaker Notes)
 
 ---
 
-## Template Features
+<iframe class="stretch" data-src="https://eventbrite.com.au"></iframe>
+
+---
+
+<iframe class="stretch" data-src="https://query.wikidata.org/"></iframe>
+
+---
+
+## Changed templates
+<iframe class="stretch" data-src="https://www.eventbrite.com.au"></iframe>
 
 - Code Presenting |
 - Repo Source, Static Blocks, GIST |
@@ -22,6 +33,8 @@
 - Slideshow Background Image |
 - Slide-specific Background Images |
 - Custom Logo, TOC, and Footnotes |
+
+Note: These are some notes
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 
