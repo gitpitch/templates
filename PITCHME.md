@@ -23,6 +23,9 @@
 - Slide-specific Background Images |
 - Custom Logo, TOC, and Footnotes |
 
+Note:
+These are some notes
+
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 
 @[1,3-6](Present code found within any repo source file.)
