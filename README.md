@@ -1,5 +1,8 @@
 # GitPitch Markdown Presentation Templates
 
+> The templates in this repo have been deprecated. See [The Template](https://github.com/gitpitch/the-template).
+
+
 Jump-start your next presentation using a GitPitch markdown
 presentation template.
 
